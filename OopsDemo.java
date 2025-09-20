@@ -1,4 +1,4 @@
-class Student {
+ class Student {
     private String name;
     private int age;
 
@@ -60,3 +60,4 @@ public class OopsDemo {
         s2.role();
     }
 }
+
